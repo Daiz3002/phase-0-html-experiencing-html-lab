@@ -1,0 +1,5 @@
+"setter"
+"libro"
+"middle"
+"opposite"
+"wing spiker"
